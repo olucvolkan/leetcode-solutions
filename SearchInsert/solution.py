@@ -12,4 +12,4 @@ class Solution:
                 high = mid
             mid = low + (high - low) / 2
         return mid if target <= nums[mid] else mid + 1
-      
+

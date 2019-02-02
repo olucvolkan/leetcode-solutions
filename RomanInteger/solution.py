@@ -1,6 +1,6 @@
 #https://leetcode.com/problems/roman-to-integer/
 class Solution:
-    def romanToInt(self, s):
+    def roman_to_int(self, s):
         """
         :type s: str
         :rtype: int
